@@ -1,4 +1,4 @@
-# flutter_application_1
+# HIT
 
 A new Flutter project.
 
